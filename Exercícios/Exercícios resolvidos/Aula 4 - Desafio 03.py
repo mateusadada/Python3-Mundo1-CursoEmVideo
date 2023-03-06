@@ -1,4 +1,4 @@
-#Crie um script que leia dois números e mostre a soma entre eles.
+# Crie um script que leia dois números e mostre a soma entre eles.
 
 print('====== DESAFIO 03 ======')
 

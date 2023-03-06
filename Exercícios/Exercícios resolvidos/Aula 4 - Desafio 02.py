@@ -1,4 +1,4 @@
-#Crie um script que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formada.
+# Crie um script que leia o dia, o mês e o ano de nascimento de uma pessoa e mostre uma mensagem com a data formada.
 
 print('====== DESAFIO 02 ======')
 
