@@ -2,8 +2,8 @@
 
 print('====== DESAFIO 03 ======')
 
-numero1 = input('Digite o primeiro número: ')
-numero2 = input('Digite o segundo número: ')
-soma = int(numero1) + int(numero2)
+numero1 = int(input('Digite o primeiro número: '))
+numero2 = int(input('Digite o segundo número: '))
+soma = numero1 + numero2
 
-print('A soma entre', numero1, 'e', numero2, 'é', soma)
+print('A soma entre', numero1, 'e', numero2, 'é {}'.format(soma))
