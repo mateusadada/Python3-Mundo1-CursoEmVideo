@@ -13,6 +13,6 @@ print(f'\nA medida de {metros:.2f} corresponde a'
       f'\n{km:.3f} km'
       f'\n{hm:.2f} hm'
       f'\n{dam:.2f} dam'
-      f'\n{dm:.2f} dm'
-      f'\n{cm:.2f} cm'
-      f'\n{mm:.2f} mm')
+      f'\n{dm:.0f} dm'
+      f'\n{cm:.0f} cm'
+      f'\n{mm:.0f} mm')
