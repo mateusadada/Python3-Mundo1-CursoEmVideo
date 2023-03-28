@@ -1,7 +1,6 @@
 # Escreva um programa que leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
 metros = float(input('Uma distância em metros: '))
-
 km = metros/1000
 hm = metros/100
 dam = metros/10

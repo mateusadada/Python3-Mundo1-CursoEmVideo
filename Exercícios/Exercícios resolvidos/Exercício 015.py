@@ -3,7 +3,6 @@
 
 KM = int(input('Quantos KM rodados? '))
 dias = int(input('Quantos dias alugados? '))
-
 valor = dias * 60 + KM * 0.15
 
 print(f'\nO total a pagar é de R$ {valor:.2f} reais')
