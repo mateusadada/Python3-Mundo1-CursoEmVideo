@@ -2,8 +2,6 @@
 # Ex: Digite um número: 6.127
 # O número 6.127 tem a parte inteira 6.
 
-from math import trunc
-
 numero = float(input('Digite um valor: '))
 
-print(f'\nO número {numero} tem a parte inteira {trunc(numero)}')
+print(f'\nO número {numero} tem a parte inteira {int(numero)}')
