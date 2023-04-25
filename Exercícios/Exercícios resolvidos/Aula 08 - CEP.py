@@ -1,6 +1,8 @@
 from pycep import PyCep
 
-cep = PyCep(input('Digite seu CEP (apenas números): '))
+print('Bem vindo ao programa de validação de CEP!')
+
+cep = PyCep(input('Digite um CEP (apenas números): '))
 
 print('\nCEP:', cep.dadosCep['cep'],
       '\nLogradouro:', cep.dadosCep['logradouro'],
