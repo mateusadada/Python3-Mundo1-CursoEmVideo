@@ -3,7 +3,7 @@
 
 from math import radians, sin, cos, tan
 
-print('Bem vindo! Este programa mostra o valor do seno, cosseno e tangente de qualquer ângulo.')
+print('Bem vindo ao programa de cálculo de seno, cosseno e tangente!')
 
 angulo_graus = float(input('Digite um ângulo: '))
 
