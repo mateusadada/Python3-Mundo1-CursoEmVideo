@@ -1,6 +1,6 @@
 from cpf_generator import CPF
 
-print('Bem vindo! Este programa informa se um CPF é válido.')
+print('Bem vindo ao programa de validação de CPF!')
 
 cpf = input('Digite um CPF (apenas números): ')
 
