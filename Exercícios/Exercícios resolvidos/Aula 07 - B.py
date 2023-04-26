@@ -1,3 +1,5 @@
+print('Bem vindo ao programa de cálculo de várias operações a partir de dois números!')
+
 numero1 = int(input('Digite um valor: '))
 numero2 = int(input('Digite outro valor: '))
 soma = numero1 + numero2
