@@ -1,5 +1,7 @@
 # Leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
+print('Bem vindo ao programa que exibe a tabuada de um número!')
+
 numero = int(input('Digite um número: '))
 
 print(f'\n-----TABUADA-----')
