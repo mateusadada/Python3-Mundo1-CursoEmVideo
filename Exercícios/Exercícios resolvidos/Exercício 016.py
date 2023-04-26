@@ -2,6 +2,8 @@
 # Ex: Digite um número: 6.127
 # O número 6.127 tem a parte inteira 6.
 
+print('Bem vindo ao programa que exibe a parte inteira de um número fracionado!')
+
 numero = float(input('Digite um valor: '))
 
 print(f'\nO número {numero} tem a parte inteira {int(numero)}')
