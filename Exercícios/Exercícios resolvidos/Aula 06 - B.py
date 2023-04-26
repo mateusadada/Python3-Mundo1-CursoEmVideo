@@ -1,3 +1,5 @@
-numero1 = input('Digite um valor: ')
+print('Bem vindo ao programa que verifica se um texto possui apenas espaço!')
 
-print(numero1.isspace())
+numero1 = input('Digite algo: ')
+
+print(f'\nTem apenas espaço? {numero1.isspace()}')
