@@ -1,5 +1,7 @@
 # Leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele
 
+print('Bem vindo ao programa que exibe várias informações a partir de algo digitado!')
+
 resposta = input('Digite qualquer coisa: ')
 
 print(f'\nQual o tipo primitido? {type(resposta)}')
