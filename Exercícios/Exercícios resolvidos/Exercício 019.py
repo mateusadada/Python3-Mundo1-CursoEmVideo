@@ -12,4 +12,6 @@ nome_2 = input('2º aluno: ')
 nome_3 = input('3º aluno: ')
 nome_4 = input('4º aluno: ')
 
-print(f'\nO aluno escolhido foi {choice([nome_1, nome_2, nome_3, nome_4])}')
+sorteado = choice([nome_1, nome_2, nome_3, nome_4])
+
+print(f'\nO aluno escolhido foi {sorteado}')
