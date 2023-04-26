@@ -1,5 +1,7 @@
 # Leia um valor em metros e o exiba convertido em centímetros e milímetros.
 
+print('Bem vindo ao programa de conversão de centímetros e milímetros!')
+
 valor = float(input('Digite um valor (metros): '))
 centimetro = valor * 100
 milimetro = valor * 1000
