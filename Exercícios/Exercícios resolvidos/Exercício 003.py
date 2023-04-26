@@ -1,5 +1,7 @@
 # Crie um programa que leia dois números e mostre a soma entre eles.
 
+print('Bem vindo ao programa que cálcula a soma entre dois números!')
+
 numero1 = float(input('Digite um valor: '))
 numero2 = float(input('Digite outro valor: '))
 soma = numero1 + numero2
