@@ -4,7 +4,7 @@ import pygame
 
 print('\nBem vindo ao programa que reproduz uma música!')
 
-pygame.mixer.init()
+pygame.init()
 pygame.mixer.music.load('Exercício 021.mp3')
 pygame.mixer.music.play()
 
