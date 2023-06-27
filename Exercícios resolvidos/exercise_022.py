@@ -5,7 +5,7 @@
 
 print('Bem vindo ao programa que faz várias análises a partir de um nome!')
 
-nome = input('Nome completo: ')
+nome = str(input('Nome completo: ')).strip()
 
 primeiro_nome = nome.split()
 
