@@ -5,8 +5,8 @@
 
 print('Bem vindo ao programa que exibe várias informações a partir de uma frase!')
 
-frase = str(input('Digite uma frase: ')).strip()
+frase = str(input('Digite uma frase: ')).lower().strip()
 
-print(f'\nQuantas vezes aparece a letra "a/A": {frase.lower().count("a")}'
-      f'\nA posição que aparece por primeiro: {frase.lower().find("a") + 1}'
-      f'\nA posição que aparece por último: {frase.lower().rfind("a") + 1}')
+print(f'\nQuantas vezes aparece a letra "a/A": {frase.count("a")}'
+      f'\nA posição que aparece por primeiro: {frase.find("a") + 1}'
+      f'\nA posição que aparece por último: {frase.rfind("a") + 1}')
