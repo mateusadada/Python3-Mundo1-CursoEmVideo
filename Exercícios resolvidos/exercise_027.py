@@ -3,8 +3,7 @@
 
 print('Bem vindo ao programa que exibe o primeiro e o último nome separadamente!')
 
-nome = str(input('Nome completo: ')).strip()
-nome_convertido = nome.split()
+nome = str(input('Nome completo: ')).strip().split()
 
-print(f'\nPrimeiro nome: {nome_convertido[0]}'
-      f'\nÚltimo nome: {nome_convertido[len(nome_convertido) - 1]}')
+print(f'\nPrimeiro nome: {nome[0]}'
+      f'\nÚltimo nome: {nome[len(nome) - 1]}')
