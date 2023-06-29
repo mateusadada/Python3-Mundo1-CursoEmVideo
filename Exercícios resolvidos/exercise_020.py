@@ -11,4 +11,4 @@ for e in range(0, 4):
     alunos.append(input(f'Nome do {e + 1}º aluno: '))
 
 print('\nA ordem de apresentação será:'
-      f'\n{sample(alunos, k=4)}')
+      f'\n\033[33m{sample(alunos, k=4)}\033[m')

@@ -10,10 +10,10 @@ dm = metros * 10
 cm = metros * 100
 mm = metros * 1000
 
-print(f'\nA medida de {metros:.2f} corresponde a'
-      f'\n{km:.3f} km'
-      f'\n{hm:.2f} hm'
-      f'\n{dam:.2f} dam'
-      f'\n{dm:.0f} dm'
-      f'\n{cm:.0f} cm'
-      f'\n{mm:.0f} mm')
+print(f'\nA medida de \033[33m{metros:.2f}\033[m corresponde a'
+      f'\n\033[33m{km:.3f}\033[m km'
+      f'\n\033[33m{hm:.2f}\033[m hm'
+      f'\n\033[33m{dam:.2f}\033[m dam'
+      f'\n\033[33m{dm:.0f}\033[m dm'
+      f'\n\033[33m{cm:.0f}\033[m cm'
+      f'\n\033[33m{mm:.0f}\033[m mm')

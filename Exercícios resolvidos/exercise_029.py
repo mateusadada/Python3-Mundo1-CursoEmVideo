@@ -6,7 +6,7 @@ print('Bem vindo ao programa de multas!')
 velocidade = int(input('Digite a velocidade (km/h): '))
 
 if velocidade > 80:
-    print(f'\nMultado por ter excedido {velocidade - 80} km/h'
-          f'\nValor a pagar: R$ {(velocidade - 80) * 7:.2f} reais')
+    print(f'\n\033[31mMultado\033[33m por ter excedido {velocidade - 80} km/h\033[m'
+          f'\n\033[33mValor a pagar: R$ \033[31m{(velocidade - 80) * 7:.2f}\033[33m reais\033[m')
 else:
-    print('\nVelocidade dentro do permitido. Liberado!')
+    print('\n\033[33mVelocidade dentro do permitido. Liberado!\033[m')

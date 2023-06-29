@@ -4,4 +4,4 @@ print('Bem vindo ao programa que verifica se tem "SILVA" no nome de uma pessoa!'
 
 nome = str(input('Nome completo: ')).strip()
 
-print(f'\nTem SILVA no nome? {"SILVA" in nome.upper()}')
+print(f'\nTem SILVA no nome? \033[33m{"SILVA" in nome.upper()}\033[m')

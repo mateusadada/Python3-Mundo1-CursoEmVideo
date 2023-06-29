@@ -5,5 +5,5 @@ print('Bem vindo ao programa que exibe o primeiro e o último nome separadamente
 
 nome = str(input('Nome completo: ')).strip().split()
 
-print(f'\nPrimeiro nome: {nome[0]}'
-      f'\nÚltimo nome: {nome[len(nome) - 1]}')
+print(f'\nPrimeiro nome: \033[33m{nome[0]}\033[m'
+      f'\nÚltimo nome: \033[33m{nome[len(nome) - 1]}\033[m')

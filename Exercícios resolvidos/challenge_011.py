@@ -8,5 +8,5 @@ altura = float(input('Digite a altura: '))
 area = largura * altura
 tinta_necessaria = area / 2
 
-print(f'\nÁrea: {area:.2f} m²')
-print(f'Tinta necessária: {tinta_necessaria:.2f}')
+print(f'\nÁrea: \033[33m{area:.2f}\033[m m²')
+print(f'Tinta necessária: \033[33m{tinta_necessaria:.2f}\033[m')

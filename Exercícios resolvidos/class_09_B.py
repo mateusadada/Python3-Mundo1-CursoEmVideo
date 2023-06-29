@@ -4,7 +4,7 @@ print('Bem vindo ao programa de análise de string!\n')
 frase = 'Curso em Vídeo Python'
 
 # quantidade de índices/tamanho
-print(len(frase))
+print('\033[33m', len(frase))
 
 # quantidade de 'o'
 print(frase.count('o'))

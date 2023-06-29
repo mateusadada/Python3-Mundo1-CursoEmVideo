@@ -6,4 +6,4 @@ nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))
 media = (nota1 + nota2)/2
 
-print(f'\nA média entre {nota1} e {nota2} é igual a {media:.2f}')
+print(f'\nA média entre \033[33m{nota1}\033[m e \033[33m{nota2}\033[m é igual a \033[33m{media:.2f}\033[m')

@@ -6,8 +6,8 @@ print('Bem vindo ao programa de cálculo de aumento de salário!')
 salario = float(input('Informe o salário: R$ '))
 
 if salario > 1250:
-    print(f'\nAumento de 10%!'
-          f'\nNovo salário: R$ {salario * 1.1:.2f} reais')
+    print(f'\nAumento de \033[33m10%!\033[m'
+          f'\nNovo salário: R$ \033[33m{salario * 1.1:.2f}\033[m reais')
 else:
-    print(f'\nAumento de 15%!'
-          f'\nNovo salário: R$ {salario * 1.15:.2f} reais')
+    print(f'\nAumento de \033[33m15%!\033[m'
+          f'\nNovo salário: R$ \033[33m{salario * 1.15:.2f}\033[m reais')

@@ -2,7 +2,7 @@ print('Bem vindo ao programa de divisão de string!\n')
 
 frase = 'Curso em Vídeo Python'
 
-print(frase)
+print('\033[33m', frase)
 
 # separa as palavras. Recria os índices numa nova lista. Retira os espaços
 frase = frase.split()

@@ -8,4 +8,4 @@ pygame.init()
 pygame.mixer.music.load('exercise_021.mp3')
 pygame.mixer.music.play()
 
-input('\nTocando a música Journey - Dont Stop Believin')
+input('\nTocando a música \033[33mJourney - Dont Stop Believin\033[m')

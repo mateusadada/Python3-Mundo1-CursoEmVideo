@@ -5,6 +5,6 @@ print('Bem vindo ao programa de cálculo de par ou ímpar!')
 numero = int(input('Digite um número inteiro: '))
 
 if numero % 2 == 0:
-    print(f'\nO número {numero} é PAR')
+    print(f'\nO número \033[33m{numero}\033[m é PAR')
 else:
-    print(f'\nO número {numero} é ÍMPAR')
+    print(f'\nO número \033[33m{numero}\033[m é ÍMPAR')

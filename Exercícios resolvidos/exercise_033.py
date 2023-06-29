@@ -17,5 +17,5 @@ for i in list(range(1, 3)):
     if numero[i] < menor:
         menor = numero[i]
 
-print(f'\nMaior: {maior}'
-      f'\nMenor: {menor}')
+print(f'\nMaior: \033[33m{maior}\033[m'
+      f'\nMenor: \033[33m{menor}\033[m')

@@ -14,4 +14,4 @@ nome_4 = input('4º aluno: ')
 
 sorteado = choice([nome_1, nome_2, nome_3, nome_4])
 
-print(f'\nO aluno escolhido foi {sorteado}')
+print(f'\nO aluno escolhido foi \033[33m{sorteado}\033[m')

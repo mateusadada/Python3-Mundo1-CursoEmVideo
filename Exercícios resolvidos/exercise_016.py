@@ -6,4 +6,4 @@ print('Bem vindo ao programa que exibe a parte inteira de um número fracionado!
 
 numero = float(input('Digite um valor: '))
 
-print(f'\nO número {numero} tem a parte inteira {int(numero)}')
+print(f'\nO número \033[33m{numero}\033[m tem a parte inteira \033[33m{int(numero)}\033[m')

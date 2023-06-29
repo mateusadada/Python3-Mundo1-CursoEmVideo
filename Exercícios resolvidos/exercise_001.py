@@ -4,4 +4,4 @@ print('Bem vindo ao programa que exibe uma saudação!')
 
 mensagem = 'Olá, Mundo!'
 
-print(mensagem)
+print('\033[33m', mensagem)

@@ -4,5 +4,5 @@ print('Bem vindo ao programa que exibe o sucessor e o antecessor de um número!'
 
 numero = int(input('Digite um número: '))
 
-print(f'\nSucessor: {numero + 1}')
-print(f'Antecessor: {numero - 1}')
+print(f'\nSucessor: \033[33m{numero + 1}\033[m')
+print(f'Antecessor: \033[33m{numero - 1}\033[m')

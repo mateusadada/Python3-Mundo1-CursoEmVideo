@@ -7,12 +7,12 @@ numero = str(input('Digite um número (0 a 9999): '))
 # segundo print
 numero_convertido = int(numero)
 
-print(f'\n1º dígito: {numero[0:1]}'
-      f'\n2º dígito: {numero[1:2]}'
-      f'\n3º dígito: {numero[2:3]}'
-      f'\n4º dígito: {numero[3:4]}')
+print(f'\n1º dígito: \033[33m{numero[0:1]}\033[m'
+      f'\n2º dígito: \033[33m{numero[1:2]}\033[m'
+      f'\n3º dígito: \033[33m{numero[2:3]}\033[m'
+      f'\n4º dígito: \033[33m{numero[3:4]}\033[m')
 
-print(f'\nUnidade: {numero_convertido % 10}'
-      f'\nDezena: {(numero_convertido // 10) % 10}'
-      f'\nCentena: {(numero_convertido // 100) % 10}'
-      f'\nMilhar: {(numero_convertido // 1000) % 10}')
+print(f'\nUnidade: \033[33m{numero_convertido % 10}\033[m'
+      f'\nDezena: \033[33m{(numero_convertido // 10) % 10}\033[m'
+      f'\nCentena: \033[33m{(numero_convertido // 100) % 10}\033[m'
+      f'\nMilhar: \033[33m{(numero_convertido // 1000) % 10}\033[m')

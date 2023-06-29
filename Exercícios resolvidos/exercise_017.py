@@ -12,4 +12,4 @@ cateto_adjacente = float(input('Comprimento do cateto adjacente: '))
 
 hipotenusa = hypot(cateto_oposto, cateto_adjacente)
 
-print(f'\nA hipotenusa mede {hipotenusa:.2f}')
+print(f'\nA hipotenusa mede \033[33m{hipotenusa:.2f}\033[m')

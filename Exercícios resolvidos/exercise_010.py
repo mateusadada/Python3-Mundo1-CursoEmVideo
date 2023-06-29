@@ -7,7 +7,7 @@ dolares = dinheiro / 5.30
 euro = dinheiro / 5.74
 iene = dinheiro / 24.67
 
-print(f'\nCom R$ {dinheiro:.2f} reais você pode comprar:'
-      f'\nUS$ {dolares:.2f} dólares'
-      f'\nEUR {euro:.2f} euros'
-      f'\nJPY {iene:.2f} ienes')
+print(f'\nCom R$ \033[33m{dinheiro:.2f}\033[m reais você pode comprar:'
+      f'\nUS$ \033[33m{dolares:.2f}\033[m dólares'
+      f'\nEUR \033[33m{euro:.2f}\033[m euros'
+      f'\nJPY \033[33m{iene:.2f}\033[m ienes')

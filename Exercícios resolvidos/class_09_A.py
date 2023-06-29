@@ -5,7 +5,7 @@ frase = 'Curso em Vídeo Python'
 
 # do 9 até o 12
 # o último valor não entra na contagem (13 - 1 = 12)
-print(frase[9:13])
+print('\033[33m', frase[9:13])
 
 # do 9 até o 20
 print(frase[9:21])

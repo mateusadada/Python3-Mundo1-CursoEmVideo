@@ -12,12 +12,12 @@ while True:
     numero_escolhido = int(input('Digite um número entre 0 e 5: '))
 
     if numero_escolhido < 0 or numero_escolhido > 5:
-        print('Número inválido! Tente novamente\n')
+        print('\033[33mNúmero inválido! Tente novamente\n\033[m')
     else:
         break
 
 if numero_escolhido == numero_sorteado:
-    print('\nParabéns, você acertou!')
+    print('\n\033[32mParabéns, você acertou!\033[m')
 else:
-    print('\nInfelizmente, não foi dessa vez :('
-          f'\nO número sorteado foi {numero_sorteado}')
+    print('\n\033[31mInfelizmente, não foi dessa vez :(\033[m'
+          f'\n\033[31mO número sorteado foi {numero_sorteado}\033[m')

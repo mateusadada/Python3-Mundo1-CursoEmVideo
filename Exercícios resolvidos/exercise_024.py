@@ -4,4 +4,4 @@ print('Bem vindo ao programa que verifica se o nome de uma cidade começa com "S
 
 cidade = str(input('Digite o nome de uma cidade: ')).strip()
 
-print(f'\nO nome começa com "Santo"? {(cidade[0:5]).upper() == "SANTO"}')
+print(f'\nO nome começa com "Santo"? \033[33m{(cidade[0:5]).upper() == "SANTO"}\033[m')

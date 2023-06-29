@@ -2,7 +2,7 @@ print('Bem vindo ao programa de transformação de string!\n')
 
 frase = '   Aprenda Python  '
 
-print(frase)
+print('\033[33m', frase)
 
 # remove os espaços excedentes
 print(frase.strip())
