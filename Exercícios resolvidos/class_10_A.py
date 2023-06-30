@@ -1,4 +1,4 @@
-print('Bem vindo ao programa que faz uma saudação ao nome!')
+print('Bem-vindo ao programa que faz uma saudação ao nome!')
 
 nome = str(input('Qual é o seu nome? ')).strip()
 

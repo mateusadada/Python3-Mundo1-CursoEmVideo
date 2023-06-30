@@ -1,4 +1,4 @@
-print('Bem vindo ao programa que exibe os principais códigos de cores!')
+print('Bem-vindo ao programa que exibe os principais códigos de cores!')
 
 print('\n*** STYLE ***'
       '\n\033[0mstyle - 0\033[m'

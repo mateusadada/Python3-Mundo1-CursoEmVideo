@@ -1,4 +1,4 @@
-print('Bem vindo ao programa de divisão de string!\n')
+print('Bem-vindo ao programa de divisão de string!\n')
 
 frase = 'Curso em Vídeo Python'
 

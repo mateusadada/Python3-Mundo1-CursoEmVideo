@@ -3,7 +3,7 @@
 # – Quantas letras no total (sem considerar espaços).
 # – Quantas letras tem o primeiro nome.
 
-print('Bem vindo ao programa que faz várias análises a partir de um nome!')
+print('Bem-vindo ao programa que faz várias análises a partir de um nome!')
 
 nome = str(input('Nome completo: ')).strip()
 

@@ -3,7 +3,7 @@
 # - A posição que ela aparece a primeira vez;
 # - A posição que ela aparece a última vez.
 
-print('Bem vindo ao programa que exibe várias informações a partir de uma frase!')
+print('Bem-vindo ao programa que exibe várias informações a partir de uma frase!')
 
 frase = str(input('Digite uma frase: ')).lower().strip()
 

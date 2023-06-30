@@ -4,7 +4,7 @@
 
 from random import randint
 
-print('Bem vindo ao programa de adivinhação de número!')
+print('Bem-vindo ao programa de adivinhação de número!')
 
 numero_sorteado = randint(1, 5)
 

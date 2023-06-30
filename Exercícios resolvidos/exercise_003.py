@@ -1,6 +1,6 @@
 # Crie um programa que leia dois números e mostre a soma entre eles.
 
-print('Bem vindo ao programa de cálculo da soma entre dois números!')
+print('Bem-vindo ao programa de cálculo da soma entre dois números!')
 
 numero1 = float(input('Digite um valor: '))
 numero2 = float(input('Digite outro valor: '))

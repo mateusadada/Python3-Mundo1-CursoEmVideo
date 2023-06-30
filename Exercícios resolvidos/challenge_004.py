@@ -1,6 +1,6 @@
 # Leia algo pelo teclado e mostre na tela o seu tipo primitivo e todas as informações possíveis sobre ele.
 
-print('Bem vindo ao programa que exibe várias informações a partir de algo digitado!')
+print('Bem-vindo ao programa que exibe várias informações a partir de algo digitado!')
 
 resposta = input('Digite qualquer coisa: ')
 

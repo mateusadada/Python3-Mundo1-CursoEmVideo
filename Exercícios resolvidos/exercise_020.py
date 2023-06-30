@@ -3,7 +3,7 @@
 
 from random import sample
 
-print('Bem vindo ao programa que sorteia a ordem de apresentação de trabalhos!')
+print('Bem-vindo ao programa que sorteia a ordem de apresentação de trabalhos!')
 
 alunos = []
 

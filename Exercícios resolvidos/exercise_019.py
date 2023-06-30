@@ -4,7 +4,7 @@
 
 from random import choice
 
-print('Bem vindo ao programa de sorteio de nome para apagar o quadro!')
+print('Bem-vindo ao programa de sorteio de nome para apagar o quadro!')
 
 nome_1 = input('*** Informe os nomes ***'
                '\n1º aluno: ')

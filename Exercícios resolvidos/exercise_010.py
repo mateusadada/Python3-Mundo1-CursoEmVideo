@@ -1,6 +1,6 @@
 # Crie um programa que leia quanto dinheiro uma pessoa tem na carteira e mostre quantos dólares ela pode comprar.
 
-print('Bem vindo ao programa de conversão de reais em dólares!')
+print('Bem-vindo ao programa de conversão de reais em dólares!')
 
 dinheiro = float(input('Quanto dinheiro você tem na carteira? R$ '))
 dolares = dinheiro / 5.30

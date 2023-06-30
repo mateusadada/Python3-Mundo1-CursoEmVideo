@@ -1,4 +1,4 @@
-print('Bem vindo ao programa de fatiamento de string!\n')
+print('Bem-vindo ao programa de fatiamento de string!\n')
 
 # 20 índices e 21 caracteres
 frase = 'Curso em Vídeo Python'

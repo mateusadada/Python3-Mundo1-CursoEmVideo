@@ -1,4 +1,4 @@
-print('Bem vindo ao programa que verifica se um texto possui apenas espaço!')
+print('Bem-vindo ao programa que verifica se um texto possui apenas espaço!')
 
 numero1 = input('Digite algo: ')
 

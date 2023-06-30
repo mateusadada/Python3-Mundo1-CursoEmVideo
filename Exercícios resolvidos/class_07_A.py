@@ -1,4 +1,4 @@
-print('Bem vindo ao programa que adiciona underline no nome!')
+print('Bem-vindo ao programa que adiciona underline no nome!')
 
 nome = input('Qual é o seu nome? ')
 

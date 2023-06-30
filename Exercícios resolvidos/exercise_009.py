@@ -1,6 +1,6 @@
 # Faça um programa que leia um número inteiro qualquer e mostre na tela a sua tabuada.
 
-print('Bem vindo ao programa que exibe a tabuada de um número!')
+print('Bem-vindo ao programa que exibe a tabuada de um número!')
 
 numero = int(input('Digite um número para ver sua tabuada: '))
 

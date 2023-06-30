@@ -1,7 +1,7 @@
 # Desenvolva um programa que leia o comprimento de três retas e diga ao usuário se elas podem ou não formar um
 # triângulo.
 
-print('Bem vindo ao programa de verificação de triângulo!')
+print('Bem-vindo ao programa de verificação de triângulo!')
 
 reta1 = float(input('1º reta: '))
 reta2 = float(input('2º reta: '))

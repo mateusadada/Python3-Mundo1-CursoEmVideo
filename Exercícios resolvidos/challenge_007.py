@@ -1,6 +1,6 @@
 # Desenvolva um programa que leia as duas notas de um aluno, calcule e mostre a sua média.
 
-print('Bem vindo ao programa de cálculo da média de duas notas!')
+print('Bem-vindo ao programa de cálculo da média de duas notas!')
 
 nota1 = float(input('Digite a primeira nota: '))
 nota2 = float(input('Digite a segunda nota: '))

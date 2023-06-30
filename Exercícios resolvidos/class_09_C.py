@@ -1,4 +1,4 @@
-print('Bem vindo ao programa de transformação de string!\n')
+print('Bem-vindo ao programa de transformação de string!\n')
 
 frase = '   Aprenda Python  '
 

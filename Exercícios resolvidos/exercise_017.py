@@ -5,7 +5,7 @@
 
 from math import hypot
 
-print('Bem vindo ao programa de cálculo da hipotenusa de um triângulo retângulo!')
+print('Bem-vindo ao programa de cálculo da hipotenusa de um triângulo retângulo!')
 
 cateto_oposto = float(input('Comprimento do cateto oposto: '))
 cateto_adjacente = float(input('Comprimento do cateto adjacente: '))

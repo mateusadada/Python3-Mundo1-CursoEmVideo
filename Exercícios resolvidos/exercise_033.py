@@ -1,6 +1,6 @@
 # Faça um programa que leia três números e mostre qual é o maior e qual é o menor.
 
-print('Bem vindo ao programa de cálculo do maior e menor número!')
+print('Bem-vindo ao programa de cálculo do maior e menor número!')
 
 numero = []
 
