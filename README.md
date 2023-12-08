@@ -21,7 +21,7 @@
 
 ## 🚀 Starting
 
-This repository contains all the solved exercises from [Python 3 - Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/) course taught by [Curso em Vídeo](https://www.cursoemvideo.com/). First contact with a programming language. It was fundamental to improve my knowledge and it also helped with my Bachelor's degree in Information Systems at [UDESC](https://www.udesc.br/).
+This repository contains all the solved exercises from [Python 3 - Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/) course taught by [Curso em Vídeo](https://www.cursoemvideo.com/). First contact with a programming language. It was fundamental to improve my knowledge and it also helped with my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
 
 ## 📚 Features
 
