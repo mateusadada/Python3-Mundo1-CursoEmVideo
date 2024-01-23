@@ -15,32 +15,25 @@
 - [Starting](#-starting)
 - [Features](#-features)
 - [Prerequisites](#-prerequisites)
-- [Built with](#%EF%B8%8F-built-with)
-- [Author](#%EF%B8%8F-author)
+- [Built with](#️-built-with)
+- [Author](#️-author)
 - [License](#-license)
 
 ## 🚀 Starting
 
-This repository contains all the solved exercises from [Python 3 - Mundo 1](https://www.cursoemvideo.com/curso/python-3-mundo-1/) course taught by [Curso em Vídeo](https://www.cursoemvideo.com/). First contact with a programming language. It was fundamental to improve my knowledge and it also helped with my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
+This repository contains all the solved exercises from the [Python 3 - Mundo 1 course](https://www.cursoemvideo.com/curso/python-3-mundo-1/) taught by [Curso em Vídeo](https://www.cursoemvideo.com/). First contact with a programming language. It was fundamental to improve my knowledge and it also helped with my Bachelor's Degree in Information Systems at [UDESC](https://www.udesc.br/).
 
 ## 📚 Features
 
 Used during the evolution of exercises:
 
 - Introduction to language
-
 - Primitive data
-
 - Input and output
-
 - Arithmetic operations
-
 - Handling text
-
 - Modules
-
 - Conditions (if, elif and else)
-
 - Colors
 
 ## 📋 Prerequisites
