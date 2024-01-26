@@ -27,14 +27,14 @@ This repository contains all the solved exercises from the [Python 3 - Mundo 1 c
 
 Used during the evolution of exercises:
 
-- Introduction to language
-- Primitive data
-- Input and output
-- Arithmetic operations
-- Handling text
-- Modules
-- Conditions (if, elif and else)
-- Colors
+- Introduction to language.
+- Primitive data.
+- Input and output.
+- Arithmetic operations.
+- Handling text.
+- Modules.
+- Conditions (if, elif and else).
+- Colors.
 
 ## 📋 Prerequisites
 
@@ -48,7 +48,7 @@ You need to have the Python language on your machine along with an IDE (Integrat
 
 ## 🛠️ Built with
 
-* [Python 3](https://www.python.org/) - The programming language used
+* [Python 3](https://www.python.org/) - The programming language used.
 
 ## ✒️ Author
 
